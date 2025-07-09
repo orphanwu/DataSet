@@ -1,0 +1,170 @@
+compound	cause_effect	Electrical conductivity
+sodium concentration	cause_effect	grain boundary resistance
+composition	cause_effect	conductivity
+Temperature	cause_effect	Thermal expansion
+lattice size	cause_effect	conductivity
+Na ( 1 )	cause_effect	conduction channel
+Ga	cause_effect	grain boundary resistance
+bond lengths	cause_effect	mobility
+structural determination	used_for	composition
+Na + conduction	cause_effect	conductivity
+Na + configurations	cause_effect	optimal lattice parameters
+geometrical changes	cause_effect	optimal lattice parameters
+lattice size	cause_effect	Thermal expansion
+Si	cause_effect	charge carrier
+arsenic substitution	cause_effect	Activation energy
+content	cause_effect	electrical properties
+ionic radius	cause_effect	conductivity
+distance	cause_effect	parameter
+Na ( 1 ) occupation	cause_effect	grain boundary resistance
+P	cause_effect	voltage
+DOD	cause_effect	battery capacity
+tetrahedron	component_whole	NASICON structure
+Li +	located_of	transport path
+agglomeration	cause_effect	electrical properties
+grain growth	cause_effect	ionic conductivity
+Na content	cause_effect	conductivity
+Structural change	property_of	LAGP
+density	cause_effect	electrical properties
+Temperature	cause_effect	conduction channel
+polycondensation	cause_effect	polymer citrate gel
+Na + concentration	cause_effect	Na + mobility
+Ga	cause_effect	conductivity
+vanadium content	cause_effect	potential barrier
+substitution	cause_effect	bulk conductivity
+sodium content	cause_effect	grain boundary resistance
+Al3 +	cause_effect	conductivity
+B - site elements	cause_effect	interfacial resistance
+voltage stability	property_of	organic borohydride superionic conductor
+conductivity	cause_effect	grain boundary conductivity
+occupy	cause_effect	cell volume
+crystal structure	cause_effect	Electrical conductivity
+heat treatment time	cause_effect	grain boundary resistance
+Al3 +	cause_effect	ionic conductivity
+Si doping	cause_effect	total jump events
+electronegativity	cause_effect	ionic conductivity
+size	cause_effect	conductivity
+mid - Na occupation	cause_effect	grain boundary resistance
+corner	component_whole	NaMo2P3O12
+Coulomb force	cause_effect	Na ( 1 ) ion
+Na + content	same	Na + amount
+Al	cause_effect	conductivity
+charge carrier	cause_effect	conductivity
+composition	cause_effect	diffraction patterns
+Si	cause_effect	grain boundary resistance
+Al / Y substitution	cause_effect	Thermal expansion
+compound	cause_effect	crystal structure
+protective layer	cause_effect	electrochemical reduction
+oxygen atom	cause_effect	ionic conductivity
+large cation	cause_effect	conductivity
+content	cause_effect	ionic conductivity
+total jump events	cause_effect	Na + mobility
+second phase	cause_effect	transport
+arsenic substitution	cause_effect	mobility
+Activation energy	cause_effect	conductivity
+content	cause_effect	bond angle
+compound	cause_effect	properties
+site	cause_effect	bond lengths
+Coulomb force	cause_effect	Na ( 3 ) site
+Al / Y substitution	cause_effect	grain boundary resistance
+uneven distribution	cause_effect	mosaic pattern
+annealing temperature	cause_effect	Unit cell parameter
+substitution	cause_effect	Bond distance
+concentration	cause_effect	ionic conductivity
+composition	cause_effect	properties
+oxygen atom	cause_effect	mobility
+Ti area	cause_effect	Activation energy
+Temperature	cause_effect	isotropic
+Cr interlayer films	cause_effect	lifetime
+ionic conductivity	component_whole	garnet
+Na - O bond distances	cause_effect	Electrical conductivity
+lattice size	cause_effect	hopping distance
+800 degree C	cause_effect	increased tortuosity
+Al / Y substitution	cause_effect	transport
+sodium concentration	cause_effect	mobility
+Temperature	cause_effect	mobility
+Na + configurations	property_of	Na ( 2 )
+Sn coat	cause_effect	charge transfer resistance
+Na vacancies	cause_effect	grain boundary resistance
+stability	property_of	material
+ion conductivity	property_of	glass ceramics
+cathode electrolyte interlayer	cause_effect	Coulombic efficiency
+bottleneck	cause_effect	Ion exchange
+Cr layer	cause_effect	electrochemical conversion
+barrier	cause_effect	Li conductivity
+Temperature	cause_effect	lattice parameters
+ZrO6 octahedron	component_whole	3D framework
+Temperature	cause_effect	higher cationic migration
+Ti area	cause_effect	bottleneck
+microcracks	cause_effect	grain boundary resistance
+Na ( 1 ) site	cause_effect	rotation
+Prelithiation	cause_effect	voltage window
+practical efficiency	property_of	membrane
+Na2 - Na3 - Na3 - Na2 channel	cause_effect	conductivity
+tetrahedral site preference	component_whole	tetrahedron
+electrolyte	cause_effect	aggregate
+Si content	cause_effect	mobility
+number	cause_effect	crystallite size
+sodium concentration	cause_effect	Activation energy
+Heating	cause_effect	Initial weight loss
+magnetite phase	property_of	electron exchange
+area	property_of	T1
+Na + ion diffusion	component_whole	monoclinic phase
+three - dimensional ( 3D ) Li conduction pathways	cause_effect	electrochemical performance
+mass - capacity ratio	cause_effect	cyclability
+Na + single bondO	cause_effect	mobility
+Temperature	cause_effect	Ion exchange
+oxygen atom	cause_effect	Electrical conductivity
+Crystallization	cause_effect	conductivity
+Na2 - Na3 - Na3 - Na2 channel	cause_effect	Na + conduction
+mobility	cause_effect	temperature factor
+lattice size	cause_effect	conduction channel
+Syntheses	cause_effect	LAGP glass - ceramics
+composition	cause_effect	Electrical conductivity
+Na content	cause_effect	grain boundary resistance
+Heating	cause_effect	weight loss
+Al / Y substitution	cause_effect	Anisotropy
+annealing temperature	cause_effect	properties
+multi - ion migrations	cause_effect	mobility
+transport properties	property_of	solid electrolyte
+concentration	cause_effect	conductivity
+cation	cause_effect	polarize
+ratio of P to As	cause_effect	Bond distance
+oxygen atom	cause_effect	conductivity
+composition	cause_effect	changes
+SPS temperature	cause_effect	phase transition
+solid - state sintering	cause_effect	irreversible capacity
+interfacial resistance	property_of	NASICON
+evaporate	cause_effect	stoichiometry
+solid electrolyte interface	cause_effect	CE loss
+structural thermal expansion	property_of	structural
+Bond distance	property_of	tetrahedral unit
+A	cause_effect	Electrical conductivity
+heterogeneous aging	cause_effect	voltage response
+microstructure	component_whole	conductor
+lattice parameters	cause_effect	optimal lattice parameters
+cycle life	property_of	Crucial battery parameters
+Na +	cause_effect	Na ( 2 ) site
+grain boundary resistivity	cause_effect	electrochemical performance
+Powder diffraction data	cause_effect	Structural information
+PO4 tetrahedron	component_whole	three dimensional skeleton
+lattice size	cause_effect	grain boundary resistance
+composition	cause_effect	positive thermal expansion
+second phase	cause_effect	grain boundary conductivity
+cracks	cause_effect	conductivity
+impurity	cause_effect	conductivity
+Na + content	cause_effect	conductivity
+Si content	cause_effect	optimal lattice parameters
+battery capacity	cause_effect	cyclic temperature
+Activation energy	cause_effect	grain boundary conductivity
+simulation temperature	cause_effect	expansion
+Na site	cause_effect	conduction channel
+site	cause_effect	bond angle
+Na ( 2 )	cause_effect	conduction channel
+X	cause_effect	optimal lattice parameters
+electronegativity	cause_effect	ion conductivity
+passageway	cause_effect	conductivity
+Activation energy	cause_effect	ionic conductivity
+composition	cause_effect	Anisotropy
+Si	cause_effect	conductivity
+Na concentration	cause_effect	framework ionic conductivity
