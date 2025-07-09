@@ -1,0 +1,162 @@
+hydrogen bonds	cause_effect	freezing point
+passivation	property_of	side reaction
+theoretical capacity	property_of	Mn4 + / Mn3 +
+co - solvent	cause_effect	stability
+concentration polarization	property_of	electrolytes
+deposition morphology	component_whole	zinc
+macromolecular additives	cause_effect	Zn2 + solvation structure
+safety	property_of	Zn - metal batteries
+overpotential	property_of	Zn | | Zn symmetric cells
+anion	component_whole	mesoscale hydrated ion clusters
+concentration	cause_effect	freezing point
+RDFs	property_of	partial H2O
+electrolyte solvation structure	cause_effect	electrode faradaic reaction kinetics
+cycling stability	property_of	Zn – manganese batteries
+resistance	property_of	MnO2CFP cathode
+protons	component_whole	aqueous electrolyte
+kinetics	property_of	electrolytes
+average CN	property_of	Zn2 +
+side reaction	cause_effect	instability
+anion type solvation structure	cause_effect	dendrite growth
+hybrid electrolyte	cause_effect	interfacial reactions
+defects	cause_effect	electrodes
+insertion / extraction	property_of	CaMnO - 140
+water - in - salt electrolyte	component_whole	highly concentrated electrolytes
+ZnSO4 electrolyte	cause_effect	peak intensity
+hydrogen bonds	cause_effect	battery performance
+free motion	property_of	water molecules
+lattice expansion	property_of	WSE
+N doping	cause_effect	electronic conductivity
+Zn2 + ions	component_whole	electrolytes
+interaction	property_of	Zn metal
+anion	component_whole	electrolytes
+side reac - tions	property_of	Zn anode
+dissolution	property_of	Mn
+PEG400	cause_effect	activity
+cycling stability	property_of	NZIBs
+desolvation energy	property_of	aqueous electrolyte
+Zn anode	cause_effect	electrochemical performance
+cubic structure	component_whole	ZIBs
+decay rate	property_of	ZnSO4
+electrolytes	cause_effect	corrosion
+polarization	property_of	cell
+crystal structures	component_whole	cathode
+large volumetric changes	cause_effect	capacity reduction
+diffuse	property_of	electrolytes
+high ionic conductivity	property_of	high - performance aqueous electrolytes
+O atoms	component_whole	square pyramid
+reaction kinetics	property_of	MnO2
+capacity	property_of	VOH
+Zn plating / stripping reversibility	property_of	Zn | | Cu cells
+Zn deposition layer	component_whole	ZnSO4
+PNIPAM / AM	cause_effect	hydrogen bonds
+1 - ethyl - 3 - methylimidazolium acetate	cause_effect	Zn2 + ion concentration polarization
+V2O5	cause_effect	capacity loss
+fast capacity fade	property_of	Zn / / MnO2 cells
+FA	cause_effect	freezing point
+electrolytes	cause_effect	electrochemical performance
+mass loading	property_of	cathode
+Cycle performance	property_of	symmetric cell
+surface	component_whole	Zn foil
+surface modification	cause_effect	dendrite
+migration	property_of	Zn2 +
+CS molecules	cause_effect	HER
+electrolyte cooling	cause_effect	HER
+interfacial chemistry	property_of	electrodes
+reversible discharge capacity	property_of	battery
+activity	cause_effect	dendrite generation
+low cost	property_of	zinc
+corrosion	property_of	Zn foil
+transport	property_of	Zn2 +
+EW1 - 6	cause_effect	stable Zn2 + plating / stripping
+direct contact	property_of	Zn electrode
+activity	cause_effect	corrosion
+solvation structures	cause_effect	transport kinetics
+stability	property_of	Zn / / Zn cells
+redox potential	property_of	electrodes
+suppression	cause_effect	stability
+Zn anode reversibility	property_of	Zn / / Zn cells
+surface	component_whole	Zn foils
+ionic conductivity	property_of	aqueous electrolyte
+b values	property_of	WSE
+average Coulombic efﬁciency	property_of	Zn | | Cu cells
+long - term cycling stability	property_of	ABs
+organic phase	cause_effect	rapid ion conduction
+reversibility	property_of	Ert - 75 electrolyte
+water molecules	located_of	electrode surface
+deposition	property_of	Zn
+coulombic eﬃciencies	property_of	Zn | | Cu cells
+IHP structure	cause_effect	dendrite growth
+adsorb	property_of	Zn surface
+electronic conductivity	property_of	ZIBs
+temperature	cause_effect	structural stability
+interlayer spacings	cause_effect	fast capacity fade
+decomposition	cause_effect	capacity fade
+concentration	property_of	localized highly concentrated electrolytes
+small additives	cause_effect	Zn dendrites
+electrolytes	cause_effect	High - temperature AZIBs
+Safety concerns	property_of	electrolytes
+cycling stability	property_of	electrolytes
+reaction kinetics	property_of	cathode materials
+specific adsorption	property_of	solvation structures
+Coulombic efficiency	property_of	hybrid electrolyte
+specific adsorption behavior	property_of	EEI
+earth - abundant	property_of	manganese oxidation
+Surface morphology evolution	property_of	ZSO
+binding energy	property_of	Zn ( 002 ) facets
+Rate performance	property_of	Zn hybrid ion supercapacitor
+adsorb	property_of	Zn anode
+average value	property_of	Zn / Zn cells
+HER potential	property_of	aqueous electrolyte
+Zn2 + ion distribution	property_of	electrolytes
+LCE	used_for	Zn / / NVO cell
+reversibility	property_of	Zn plating / stripping
+evaporation	property_of	electrolytes
+Ea	property_of	desolvation process
+life span	property_of	electrolytes
+large volumetric changes	cause_effect	amorphization
+CS	cause_effect	side reaction
+zinc salts	component_whole	ZnSO4
+adsorb	property_of	DX molecule
+water activity	cause_effect	anode
+energy barrier	property_of	Zn foil
+H - bonds	component_whole	electrolytes
+solvation structures	cause_effect	dendrite growth
+HER	cause_effect	cathodic current
+theoretical capacity	property_of	Mn4 + / Mn2 + couples
+high average Coulombic efficiency	property_of	Zn | | Cu cells
+dissolution	property_of	MnO2
+EW1 - 4	cause_effect	longer cycle life
+H2O	component_whole	weakly solvating electrolyte
+reversibility	property_of	Zn / Zn2 +
+intensity	property_of	Zn ( 002 )
+deintercalation	property_of	MnO2
+high dielectric constant	property_of	amide solvent
+rate	property_of	Zn hybrid ion supercapacitor
+electrochemical window	property_of	electrolytes
+H2O	component_whole	LCE
+stable performance	property_of	MnO2
+Zn2 +	component_whole	electrode surface
+average Coulombic efficiency	property_of	Zn | | Cu cells
+volume ratio	property_of	electrolytes
+WSE	used_for	Zn / / NVO cell
+short circuit	property_of	battery
+nickel foil	cause_effect	self - heating
+coulombic eﬃciency	property_of	Zn | | Cu cells
+ESW	cause_effect	energy density
+solvation structure regulation	cause_effect	Mn dissolution / deposition process
+Operating	cause_effect	HER
+coordination numbers	property_of	Zn2 +
+solvation structures	cause_effect	uniform Zn deposition
+Temperature fluctuations	cause_effect	reversibility
+formation	cause_effect	hydrogen evolution reaction
+current collectors	cause_effect	corrosion
+charges	property_of	Zn2 +
+short circuit	property_of	electrodes
+nucleation	property_of	Zn anode
+interaction	property_of	Zn slab
+binding energy	property_of	Zn2 +
+reversibility	property_of	ZIBs
+Zn2 + / H + insertion	cause_effect	limited cycling stability
+adsorption energy	property_of	water
+Ert additive	cause_effect	uniform Zn deposition
